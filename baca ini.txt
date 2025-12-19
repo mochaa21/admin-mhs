@@ -1,0 +1,3 @@
+website terkoneksi dengan database `db_kemahasiswaan`. agar website bekerja dengan baik, perlu impor file sql db_kemahasiswaan di phpMyAdmin. file tersebut tersedia di folder `WEB3` ini🙏
+
+localhost/phpMyAdmin/ >> impor >> pilih file `db_kemahasiswaan` >> jalankan website >> salam luar biasa🙏
